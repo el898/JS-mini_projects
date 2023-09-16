@@ -27,4 +27,3 @@ For this project, you will create a JavaScript function that simulates card coun
   Do NOT return an array.
   Do NOT include quotes (single or double) in the output.
 
-This project is a great exercise to practice JavaScript logic and decision-making based on specific criteria.
